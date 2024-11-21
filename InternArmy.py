@@ -26,4 +26,4 @@ print(precision_score(y_test, test_preds))
 
 from sklearn.metrics import confusion_matrix
 
-confusion_matrix(y_test, test_preds)
+confusion_matrix(y_test,test_preds)
